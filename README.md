@@ -14,6 +14,7 @@ async def social(ctx):
     em = discord.Embed(title="🧪 my truc bidule", color=color)
     em.add_field(name="🧪 discord", value="GaGoU#5865")
     em.add_field(name="🧪 server of my friend", value="https://discord.gg/u6Tn9jJdwe")
+    em.add_field(name="🧪 soundcloud", value="https://soundcloud.com/gagou78114")
     em.add_field(name="🧪 pays.host ", value="13906")
     em.add_field(name="🧪 voltic.dev", value="145")
     em.add_field(name="🧪 confighub.host", value="893521")
