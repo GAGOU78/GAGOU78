@@ -1,9 +1,6 @@
 # Salut 👋
 
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/e-michel/"><img height="24" src="https://github.com/GAGOU78/GAGOU78/blob/master/dc.png?raw=true">
-</p>
 
 <details>
  <summary><strong>stats :</strong></summary>
