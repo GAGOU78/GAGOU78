@@ -11,7 +11,7 @@
 @bot.command()
 async def social(ctx):
     await ctx.message.delete()
-    em = discord.Embed(title="🧪 my truc bidule", color=color)
+    em = discord.Embed(title="🧪 my truc bidule", color=0x51ff00)
     em.add_field(name="🧪 discord", value="GaGoU#5865")
     em.add_field(name="🧪 server of my friend", value="https://discord.gg/u6Tn9jJdwe")
     em.add_field(name="🧪 soundcloud", value="https://soundcloud.com/gagou78114")
@@ -29,7 +29,7 @@ async def social(ctx):
     em.add_field(name="🧪 redinvite.net", value="11204")
     em.add_field(name="🧪 proxied.cc", value="10167")
     em.set_thumbnail(url="https://cdn.discordapp.com/attachments/703330285370081321/822925819382464562/unknown.png")
-    em.set_footer(text="s/o les orange fuck les mendari")
+    em.set_footer(text="s/o les orange fuck les mendarine")
     embed = await ctx.send(embed=em)
 ```
 <details>
