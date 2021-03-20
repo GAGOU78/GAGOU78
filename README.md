@@ -1,8 +1,8 @@
 # Salut 👋
 
-[![Account Age](https://badges.pufler.dev/years/GAGOU78/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age)](https://discord.gg/u6Tn9jJdwe)
-[![Repos Badge](https://badges.pufler.dev/repos/GAGOU78/?style=for-the-badge&color=27a4fb&logo=github&label=REPOS)](https://discord.gg/u6Tn9jJdwe)
-[![caca](https://visitor-badge.glitch.me/badge?page_id=GAGOU78.visitor-badge)](https://discord.gg/u6Tn9jJdwe)
+[![Account Age](https://badges.pufler.dev/years/GAGOU78/?style=for-the-badge&color=42d13d&logo=github&label=Account+Age)](https://discord.gg/u6Tn9jJdwe)
+[![Repos Badge](https://badges.pufler.dev/repos/GAGOU78/?style=for-the-badge&color=42d13d&logo=github&label=REPOS)](https://discord.gg/u6Tn9jJdwe)
+[![vue Counter](https://badges.pufler.dev/visits/GAGOU78/GAGOU78?style=for-the-badge&color=42d13d&logo=github&label=visitor)](https://discord.gg/u6Tn9jJdwe)
 
 <details>
  <summary><strong>stats :</strong></summary>
