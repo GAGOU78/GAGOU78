@@ -18,6 +18,7 @@ async def social(ctx):
     em.add_field(name="🧪 pays.host ", value="13906")
     em.add_field(name="🧪 voltic.dev", value="145")
     em.add_field(name="🧪 image.surf", value="111")
+    em.add_field(name="🧪 pxl.blue", value="2103")
     em.add_field(name="🧪 confighub.host", value="893521")
     em.add_field(name="🧪 fakecri.me", value="2203")
     em.add_field(name="🧪 chams.cc", value="103")
