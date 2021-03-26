@@ -27,7 +27,7 @@ async def social(ctx):
     em.add_field(name="🧪 kurwa.club", value="0542")
     em.add_field(name="🧪 celestephoto.com", value="GAGOU78")
     em.add_field(name="🧪 vacban.wtf", value="12029")
-    em.add_field(name="🧪 iastrid.technology", value=".6780")
+    em.add_field(name="🧪 astrid.technology", value=".6780")
     em.add_field(name="🧪 180mafia.xyz", value="275")
     em.add_field(name="🧪 vaultcore.cc", value=f"554")
     em.add_field(name="🧪 redinvite.net", value="11204")
