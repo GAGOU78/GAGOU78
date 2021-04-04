@@ -35,6 +35,7 @@ async def social(ctx):
     em.add_field(name="🧪 redinvite.net", value="11204")
     em.add_field(name="🧪 proxied.cc", value="10167")
     em.add_field(name="🧪 misban.wtf", value=f"92")
+    em.add_field(name="🧪 leakmania.co", value="49907")
     em.set_thumbnail(url="https://cdn.discordapp.com/attachments/703330285370081321/822925819382464562/unknown.png")
     em.set_footer(text="s/o les orange fuck les mendarine")
     embed = await ctx.send(embed=em)
