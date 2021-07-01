@@ -26,6 +26,7 @@ async def social(ctx):
     em.add_field(name="🧪 celestephoto.com", value="GAGOU78")
     em.add_field(name="🧪 rip clippy.gg", value="3614")
     em.add_field(name="🧪 higure.wtf", value="120")
+    em.add_field(name="🧪 axisuploader.cc", value="21)
     em.add_field(name="⚙ WEBSITE TYPE ", value="PRIVATE-FORUM")
     em.add_field(name="🧪 chams.cc", value="103")
     em.add_field(name="🧪 vacban.wtf", value="12029")
