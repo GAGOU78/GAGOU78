@@ -11,7 +11,7 @@
 @bot.command()
 async def social(ctx):
     await ctx.message.delete()
-    em = discord.Embed(title="🧪 my truc bidule", color=0x51ff00)
+    em = discord.Embed(title="🧪 my uid from forum", color=0x51ff00)
     em.add_field(name="🧪 discord", value="GaGoU#0000")
     em.add_field(name="🧪 server of my friend", value="https://discord.gg/u6Tn9jJdwe")
     em.add_field(name="🧪 soundcloud", value="https://soundcloud.com/gagou78114")
